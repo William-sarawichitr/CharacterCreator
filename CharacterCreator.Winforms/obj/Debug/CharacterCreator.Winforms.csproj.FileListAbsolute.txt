@@ -1,0 +1,15 @@
+C:\Users\wsara\Desktop\itse-1430-master\labs\lab3\CharacterCreator.Winforms\CharacterCreator.Winforms\bin\Debug\CharacterCreator.Winforms.exe.config
+C:\Users\wsara\Desktop\itse-1430-master\labs\lab3\CharacterCreator.Winforms\CharacterCreator.Winforms\bin\Debug\CharacterCreator.Winforms.exe
+C:\Users\wsara\Desktop\itse-1430-master\labs\lab3\CharacterCreator.Winforms\CharacterCreator.Winforms\bin\Debug\CharacterCreator.Winforms.pdb
+C:\Users\wsara\Desktop\itse-1430-master\labs\lab3\CharacterCreator.Winforms\CharacterCreator.Winforms\bin\Debug\CharacterCreator.dll
+C:\Users\wsara\Desktop\itse-1430-master\labs\lab3\CharacterCreator.Winforms\CharacterCreator.Winforms\bin\Debug\CharacterCreator.pdb
+C:\Users\wsara\Desktop\itse-1430-master\labs\lab3\CharacterCreator.Winforms\CharacterCreator.Winforms\obj\Debug\CharacterCreator.Winforms.csproj.AssemblyReference.cache
+C:\Users\wsara\Desktop\itse-1430-master\labs\lab3\CharacterCreator.Winforms\CharacterCreator.Winforms\obj\Debug\CharacterCreator.Winforms.AboutBox.resources
+C:\Users\wsara\Desktop\itse-1430-master\labs\lab3\CharacterCreator.Winforms\CharacterCreator.Winforms\obj\Debug\CharacterCreator.Winforms.CharacterForm.resources
+C:\Users\wsara\Desktop\itse-1430-master\labs\lab3\CharacterCreator.Winforms\CharacterCreator.Winforms\obj\Debug\CharacterCreator.Winforms.MainForm.resources
+C:\Users\wsara\Desktop\itse-1430-master\labs\lab3\CharacterCreator.Winforms\CharacterCreator.Winforms\obj\Debug\CharacterCreator.Winforms.Properties.Resources.resources
+C:\Users\wsara\Desktop\itse-1430-master\labs\lab3\CharacterCreator.Winforms\CharacterCreator.Winforms\obj\Debug\CharacterCreator.Winforms.csproj.GenerateResource.cache
+C:\Users\wsara\Desktop\itse-1430-master\labs\lab3\CharacterCreator.Winforms\CharacterCreator.Winforms\obj\Debug\CharacterCreator.Winforms.csproj.CoreCompileInputs.cache
+C:\Users\wsara\Desktop\itse-1430-master\labs\lab3\CharacterCreator.Winforms\CharacterCreator.Winforms\obj\Debug\CharacterCreator.Winforms.csproj.CopyComplete
+C:\Users\wsara\Desktop\itse-1430-master\labs\lab3\CharacterCreator.Winforms\CharacterCreator.Winforms\obj\Debug\CharacterCreator.Winforms.exe
+C:\Users\wsara\Desktop\itse-1430-master\labs\lab3\CharacterCreator.Winforms\CharacterCreator.Winforms\obj\Debug\CharacterCreator.Winforms.pdb

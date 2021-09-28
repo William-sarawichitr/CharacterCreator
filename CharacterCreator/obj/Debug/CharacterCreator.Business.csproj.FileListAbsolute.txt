@@ -1,0 +1,6 @@
+C:\Users\wsara\Desktop\itse-1430-master\labs\lab3\CharacterCreator.Winforms\CharacterCreator\bin\Debug\CharacterCreator.dll
+C:\Users\wsara\Desktop\itse-1430-master\labs\lab3\CharacterCreator.Winforms\CharacterCreator\bin\Debug\CharacterCreator.pdb
+C:\Users\wsara\Desktop\itse-1430-master\labs\lab3\CharacterCreator.Winforms\CharacterCreator\obj\Debug\CharacterCreator.Business.csproj.AssemblyReference.cache
+C:\Users\wsara\Desktop\itse-1430-master\labs\lab3\CharacterCreator.Winforms\CharacterCreator\obj\Debug\CharacterCreator.Business.csproj.CoreCompileInputs.cache
+C:\Users\wsara\Desktop\itse-1430-master\labs\lab3\CharacterCreator.Winforms\CharacterCreator\obj\Debug\CharacterCreator.dll
+C:\Users\wsara\Desktop\itse-1430-master\labs\lab3\CharacterCreator.Winforms\CharacterCreator\obj\Debug\CharacterCreator.pdb
